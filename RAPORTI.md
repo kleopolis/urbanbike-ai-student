@@ -1,10 +1,9 @@
 # Raporti i studentit: UrbanBike AI
 
-Studenti: **[PLOTËSO: Emri Mbiemri]**
-Grupi (nëse punohet në grup): **[PLOTËSO ose shkruaj "individual"]**
-Data: **[PLOTËSO]**
-GitHub-i im: **[PLOTËSO: https://github.com/emri-yt/urbanbike-ai-emri-yt]**
-Figma: **[PLOTËSO: lidhja Copy link nga skedari yt Figma]**
+Studenti: Kleo Tafa
+Data: 13.11.2026
+GitHub-i im: https://github.com/kleopolis/urbanbike-ai-student
+Figma: https://www.figma.com/proto/PvaJAn5zZkZkEOTB2ywDZp/UrbanBike-AI-%E2%80%93--Kleo-Tafa?node-id=2-2&p=f&t=MRteN51bEaMT8oYH-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Qëllimi
 
